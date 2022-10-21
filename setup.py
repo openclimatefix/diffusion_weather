@@ -9,7 +9,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="diffusion_weather",
-    version="0.0.2",
+    version="0.0.3",
     packages=find_packages(),
     url="https://github.com/openclimatefix/diffusion_weather",
     license="MIT License",
